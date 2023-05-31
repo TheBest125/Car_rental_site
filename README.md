@@ -1,5 +1,7 @@
 # CAR RENTALS APP - FINAL CAPSTONE PROJECT
 
+Made by KevinBruyne
+
 In this project, I developed a frontend web application, Car Rentals using [Car Rentals API](https://cush-car.herokuapp.com) - [Repo](https://github.com/acushlakoncept/car-rental-api) I also develop, a requirement for my final capstone project to consume the data using React Application.
 
 The application features includes:
@@ -11,12 +13,6 @@ The application features includes:
 
 ![screenshot](./car_rentals.gif)
 
-## Live Demo
-[Live Demo](https://hire-a-car-client.herokuapp.com/)
-
-## Video Presentation
-[YouTube Link](https://www.youtube.com/watch?v=qC0jjU27ZnQ)
-
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
@@ -24,19 +20,6 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 Make sure Node.js is running on your local machine
-
-### Setup
-
-~~~bash
-$ git clone https://github.com/acushlakoncept/car-rentals-client.git
-$ cd rcar-rentals-client
-~~~
-
-Install modules:
-
-```
-yarn add
-```
 
 ### Usage
 
@@ -62,13 +45,6 @@ Either ways, if you encounter any error while running either command, its likely
 
 Fire up your app by running `heroku open` Yay!!! your app has been deployed successfully.
 
-# Authors
-
-👤 **Uduak Essien**
-
-- Github: [@acushlakoncept](https://github.com/acushlakoncept/)
-- Twitter: [@acushlakoncept](https://twitter.com/acushlakoncept)
-- Linkedin: [acushlakoncept](https://www.linkedin.com/in/acushlakoncept/)
 
 ## 🤝 Contributing
 
